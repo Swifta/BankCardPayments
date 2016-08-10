@@ -1,0 +1,21 @@
+#Config File For PAGA
+
+settings-type=test
+#TEST DETAILS
+##TrustStoreLocation_test=E:/jokoni/wso2as-5.2.1/wso2as-5.2.1/repository/resources/security/client-truststore.jks
+
+base_url_test=http://staging1flutterwave.co:8080/pwc/rest/
+api_key_test=tk_7URMGB6EJ0wHkuhNomAp
+api_merchant_key_test=tk_bwmXEyS3j4
+
+merchantid_test=00
+amount_test=400
+currency_test=NGN
+cardno_test=5445 8425 8880 2006
+cvv_test=343
+expirymonth_test=09
+expiryyear_test=2015
+pin_test=9999
+narration_test=good
+custid_test=191919
+
